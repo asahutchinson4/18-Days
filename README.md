@@ -1,5 +1,9 @@
 # 18 Days
  A game where you construct a virus and release it upon the world.
+ 
+ ![Start Gif](GIFS/start.gif)
+ ![Game Loop Gif](GIFS/game_loop.gif)
+ ![Ending Gif](GIFS/end.gif)
 
 # Overview of Project
 I started this project for my foundations of game development course. Our goal was to create a text adventure game similar to the classic ones such as Zork.
